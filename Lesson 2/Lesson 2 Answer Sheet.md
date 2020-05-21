@@ -16,6 +16,7 @@ print(a1)
 print(a2)
 print(a1+a2)
 
+
 # Question 3 Answer:
 
 a1 = 27
