@@ -144,6 +144,7 @@ count = len(d)
 print("the total items in this dictionary is:", count)
 
 
+
 # Famous Scientists
 votes = ["Einstein", "Newton", "Gauss", "Darwin", "Gauss", "Euler", 
          "Pythagoras", "Newton", "Euler", "Darwin", "Einstein",
